@@ -2,12 +2,6 @@ Toggle navigation
 Curriculum
 [C#26] Foundations v2.1 - Part 3
 Average: 87.59%
-Project badge
-Docker
- Novice
- By: Derek Webb
- Weight: 1
- Manual QA review must be done (request it when you are done with the project)
 Description
 Context
 Docker is a platform that allows you to containerize your applications, meaning that you can package them into portable, self-contained environments which can run anywhere. This means that you can quickly move your application from one environment to another, such as from your local computer to a server, without worrying about dependencies or configuration issues. Docker achieves this by using containers, which are isolated environments that contain everything an application needs to run, such as libraries, dependencies, and configurations. Docker containers are lightweight and can be started and stopped quickly, making them ideal for modern software development and deployment. With Docker, you can also quickly scale your application by running multiple containers of the same application on different hosts (or the same host, as we will do in this project), and manage them using Docker Compose or other orchestration tools.
@@ -776,9 +770,5 @@ Repo:
 GitHub repository: holbertonschool-softy-pinko-docker
 Directory: task6
 0/0 pts
-Score
-Project badge
-Please review all the tasks before you start the peer review.
-
 Welcome to the chat! Type a message to get started.
 
